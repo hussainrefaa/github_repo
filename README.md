@@ -1,5 +1,5 @@
 # github_repo
-first comit
+first commit
 second commit
 third commit
 fourth commit
